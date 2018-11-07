@@ -1,9 +1,15 @@
-print("Hello, from Python!")
+
+  
+    
+def memes():    
+    print("Hello, from Python!")
 
 
-x = 5
-y = 5
+    x = 5
+    y = 5
 
-z = x + y 
+    z = x + y 
 
-print(z)
+    print(z)
+
+memes()
